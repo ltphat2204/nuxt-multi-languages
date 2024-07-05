@@ -1,5 +1,7 @@
 {
-    "title": "Page À Propos",
-    "message": "Page À Propos en français",
-    "home-page": "Aller à la page d'accueil"
+    "About": {
+        "title": "Page À Propos",
+        "message": "Page À Propos en français",
+        "home-page": "Aller à la page d'accueil"
+    }
 }

@@ -1,5 +1,7 @@
 {
-    "title": "Welcome",
-    "message": "This is a multi-language example using the Nuxt i18n module.",
-    "about-page": "Move to About Page"
+    "Home": {
+        "title": "Welcome",
+        "message": "This is a multi-language example using the Nuxt i18n module.",
+        "about-page": "Move to About Page"
+    }
 }
